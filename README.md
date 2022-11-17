@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkharat29&label=Profile%20views&color=0e75b6&style=flat" alt="pkharat29" /> </p>
 
-- 🌱 I’m currently learning **React, Mongo**
+- 🌱 I’m currently learning **MERN stack in MASAI SCHOOL**
 
 - 📫 How to reach me **pratik29march@gmail.com**
 
