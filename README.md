@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack in MASAI SCHOOL**
 
-- 📫 How to reach me **pratik29march@gmail.com**
+- 📫 How to reach me **pratik.kharat2903@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
