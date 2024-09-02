@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkharat29&label=Profile%20views&color=0e75b6&style=flat" alt="pkharat29" /> </p>
 
-- 🌱 I’m currently learning **MERN stack in MASAI SCHOOL**
+- 🌱 I’m a MERN Stack developer**
 
 - 📫 How to reach me **pratik.kharat2903@gmail.com**
 
